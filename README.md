@@ -1,3 +1,3 @@
 # PPO-Pong
 
-PPO algorithm implementation on Pong-v0 game
+PPO algorithm implementation for the Pong-v0 game
